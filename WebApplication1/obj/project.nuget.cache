@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nf3mn2EOR0BlZN9Zg+9PxUqxOuhixcuEoyRMcO/t/zlVlMOe9h+QNIk670MmitcfHQK0/9a2xwzkBSLCb6RuAA==",
+  "dgSpecHash": "yfNWqUwcBV5yuPQjEqBrzEZNRkLFG5lSXhuDNX+5KzICct+AEGbCFTXbrRlsQ33YrrwYfrQvS6WoNFQ5WQJH+A==",
   "success": true,
-  "projectFilePath": "C:\\src\\Demos\\CIPSDemoAPI\\CIPSDemo1\\CIPSDemoAPI.csproj",
+  "projectFilePath": "C:\\src\\Demos\\CIPSDemoAPI\\WebApplication1\\CIPSDemoAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lburkholder\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\lburkholder\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

@@ -21,6 +21,7 @@ namespace CIPSDemo1.Controllers
         [HttpGet(Name = "GetWeatherForecast")]
         public IEnumerable<WeatherForecast> Get()
         {
+            //get stuff from database HERE
             return Enumerable.Range(1, 5).Select(index => new WeatherForecast
             {
                 Date = DateTime.Now.AddDays(index),
@@ -28,6 +29,13 @@ namespace CIPSDemo1.Controllers
                 Summary = Summaries[Random.Shared.Next(Summaries.Length)]
             })
             .ToArray();
+        }
+
+        [HttpPost(Name = "SetWeatherForecast")]
+        public bool Set()
+        {
+            //write stuff to database HERE
+            return true;
         }
     }
 }

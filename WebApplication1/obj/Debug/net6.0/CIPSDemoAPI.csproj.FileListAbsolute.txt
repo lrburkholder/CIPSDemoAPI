@@ -1,0 +1,7 @@
+C:\src\Demos\CIPSDemoAPI\WebApplication1\obj\Debug\net6.0\CIPSDemoAPI.csproj.AssemblyReference.cache
+C:\src\Demos\CIPSDemoAPI\WebApplication1\obj\Debug\net6.0\CIPSDemoAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\Demos\CIPSDemoAPI\WebApplication1\obj\Debug\net6.0\CIPSDemoAPI.AssemblyInfoInputs.cache
+C:\src\Demos\CIPSDemoAPI\WebApplication1\obj\Debug\net6.0\CIPSDemoAPI.AssemblyInfo.cs
+C:\src\Demos\CIPSDemoAPI\WebApplication1\obj\Debug\net6.0\CIPSDemoAPI.csproj.CoreCompileInputs.cache
+C:\src\Demos\CIPSDemoAPI\WebApplication1\obj\Debug\net6.0\CIPSDemoAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\src\Demos\CIPSDemoAPI\WebApplication1\obj\Debug\net6.0\CIPSDemoAPI.MvcApplicationPartsAssemblyInfo.cache

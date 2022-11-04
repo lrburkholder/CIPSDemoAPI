@@ -230,11 +230,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\src\\Demos\\CIPSDemoAPI\\CIPSDemo1\\CIPSDemoAPI.csproj",
+      "projectUniqueName": "C:\\src\\Demos\\CIPSDemoAPI\\WebApplication1\\CIPSDemoAPI.csproj",
       "projectName": "CIPSDemoAPI",
-      "projectPath": "C:\\src\\Demos\\CIPSDemoAPI\\CIPSDemo1\\CIPSDemoAPI.csproj",
+      "projectPath": "C:\\src\\Demos\\CIPSDemoAPI\\WebApplication1\\CIPSDemoAPI.csproj",
       "packagesPath": "C:\\Users\\lburkholder\\.nuget\\packages\\",
-      "outputPath": "C:\\src\\Demos\\CIPSDemoAPI\\CIPSDemo1\\obj\\",
+      "outputPath": "C:\\src\\Demos\\CIPSDemoAPI\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
